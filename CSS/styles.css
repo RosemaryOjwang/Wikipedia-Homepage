@@ -1,0 +1,22 @@
+.jumbotron{
+text-align: center;
+}
+.sidebar{
+  float: left;
+  width: 12%;
+  height: 100%;
+}
+img{
+  max-width: 50%;
+  margin: auto;
+  margin-left: 10%;
+  margin-top: 10%;
+  display: block;
+}
+.container{
+  margin-left: 180px;
+}
+.card{
+  margin-bottom: 10px;
+  margin-right: -25px;
+}
